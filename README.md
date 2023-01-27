@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tom-Harris-MIT
 - 👀 I’m interested in data, economics and development!
-- 🌱 I’m currently studying a master's at MIT. 
-- 🌱 I’m currently working as a Research Assistant at the World Bank and Harvard.
-- 📫 How to reach me: t0m@mit.edu ||  tomharris@fas.harvard.edu
+- 🌱 I’m currently working as a Consultant at the World Bank and an Economist at the UK Gov.
+- 📫 How to reach me: t0m@mit.edu
 
 <!---
 Tom-Harris-MIT/Tom-Harris-MIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
