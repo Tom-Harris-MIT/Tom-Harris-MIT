@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Harris-MIT
 - 👀 I’m interested in data, economics and development!
-- 🌱 I’m currently working as a Consultant at the World Bank and an Economist at the UK Gov.
+- 🌱 I’m currently working as a Consultant at the World Bank and as an Economist at the UK Gov.
 - 📫 How to reach me: t0m@mit.edu
 
 <!---
