@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tom-Harris-MIT
 - 👀 I’m interested in data, economics and development!
-- 🌱 I’m currently working as a Predoctoral Research Fellow at Opportunity Insights!
-- 📫 How to reach me: tomharris@fas.harvard.edu
+- 🌱 I’m currently a Predoctoral Research Fellow at Harvard's Opportunity Insights and Meta's Data for Good team.
+- 📫 How to reach me: tomharris@g.harvard.edu
 
 <!---
 Tom-Harris-MIT/Tom-Harris-MIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
